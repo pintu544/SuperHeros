@@ -33,5 +33,5 @@ fetchSuperheroProfile();
 
 
 function home(){
-    location.href = '/index.html';
+    location.href = 'https://pintu544.github.io/SuperHeros/';
 }
